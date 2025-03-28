@@ -42,7 +42,7 @@ class Banco{
 
 public class Main
 {
-    private static ArrayList<Banco> listaBanco = new ArrayList<>();
+    	private static ArrayList<Banco> listaBanco = new ArrayList<>();
 	private static Scanner scanner = new Scanner(System.in);
 	
 	
