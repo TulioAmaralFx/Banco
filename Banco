@@ -1,9 +1,3 @@
-import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.List;
-import java.lang.Thread;
-
-
 class Banco{
     private String cpf;
     private double dinheiro;
